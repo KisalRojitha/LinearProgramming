@@ -2,7 +2,7 @@
 
 Hello World!.. This is kisal Rojitha Thenuwara
 
-I have created a LP slover using simplex method which I learned from my university studies.
+I have created a LP slover using python and simplex method which I learned from my university studies.
 
 currently it's working only for maximization problems and all constraints must be less than or equal type.like below.
 
