@@ -34,8 +34,8 @@ a = """
                           
 """
 
-note : put a comma  end of each constraint except last one
-	   when writing objective function leave spaces each side of the '+' , '-' , '=' signs
+note : put a comma  end of each constraint except last one.
+	 : when writing objective function leave spaces each side of the '+' , '-' , '=' signs.
 
 
 Have Fun......
