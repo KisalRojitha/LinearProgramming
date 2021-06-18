@@ -12,7 +12,7 @@ its working for any number of variables.
 
 I will fix it for other type of constraints and  for also minimization problems.
 
-modules you may need to install to run this:
+python modules you may need to install to run this:
 
 	: tabulate
 	: numpy('probably built-in')
